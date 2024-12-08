@@ -18,13 +18,6 @@
 ## Instalación
 
 1.  Clona este repositorio:
-    
-    bash
-    
-    Copiar código
-    
-    `git clone https://github.com/Medgasan/MuteMic.git` 
-    
 2.  Abre el proyecto en Visual Studio.
 3.  Compila y ejecuta la aplicación.
 
